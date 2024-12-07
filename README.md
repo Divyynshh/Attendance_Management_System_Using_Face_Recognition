@@ -59,7 +59,7 @@ To run this project, you need to install the following libraries:
    ```bash
     ***
   
-
+---
 ## Install Dependencies
 1. Navigate into the project directory:
 cd your-repo-name
@@ -85,12 +85,33 @@ Feel free to *fork* the repository or *clone* it to your local machine.
 You can submit a *pull request* with your changes.
 - If you want to suggest changes or improvements, feel free to open an *issue*.
 
+---
+
+## Technologies Used
+- **Python**
+- **OpenCV**
+- **Tkinter**
+- **NumPy**
+- **Pandas**
+- **MySQL**
+- **Pillow**
+
+---
+## Acknowledgments
+
+Special thanks to the following:
+- **OpenCV** for face detection and recognition functionalities.
+- **Tkinter** for GUI development.
+- **NumPy** and **Pandas** for data manipulation and analysis.
+- **MySQL** for database management.
+
+---
 ## Thank you for your interest in contributing! 🚀
---- 
+ 
 I would like to thank my mentor, Mr. Aditya Prashant Ardak, for all the help and guidance during this project. 
 Your session was very helpful and full of useful information. 
 A big thank you to the team for giving me the opportunity to work on this project and learn so much.
 
----
 
-Feel free to connect or contribute to improve this project! 🚀
+---
+For any questions or issues, feel free to contact **[bansaldivyansh001@gmail.com]**. 🚀
